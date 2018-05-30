@@ -1,0 +1,5 @@
+<resources>
+	<string name="app_name">WebViewExample</string>
+	<string name="http_prefix">http://</string>
+	<string name="main_btn_move">이동</string>
+</resources>
